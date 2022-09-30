@@ -1,6 +1,6 @@
 # Number-Guessing-Game-with-Python:
 
-###### Project : Number Guessing Game with Python
+__Project : Number Guessing Game with Python__
 
 A number guessing game aims to guess the number that the program has come up with. Essentially the program logic is:
 
