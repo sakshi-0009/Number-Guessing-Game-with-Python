@@ -1,3 +1,5 @@
+Python Program Code :
+
 # to import random module
 import random
 # to create a range of random numbers between 1-10
