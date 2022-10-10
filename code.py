@@ -1,4 +1,4 @@
-Python Program Code :
+# Python Program Code :-
 
 # to import random module
 import random
